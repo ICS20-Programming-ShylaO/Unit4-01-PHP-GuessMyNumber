@@ -1,5 +1,5 @@
   <?php
-  // intializing constants and variables
+  // initializing constants and variables
   const MIN = 1;
   const MAX = 6;
   $userGuess = $_POST['user-guess'];
