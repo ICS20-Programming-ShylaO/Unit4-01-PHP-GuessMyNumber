@@ -9,12 +9,11 @@
   if ($userGuess == $randomNumber) {
 
       echo 'You got it right!';
-}
-  
+  }
+
   // if userGuess != randomNumber, display "wrong guess, try again."
-if ($userGuess != $randomNumber) {
-    echo 'Wrong guess, try again.';
-      
+  if ($userGuess != $randomNumber) {
+      echo 'Wrong guess, try again.';
 }
-    
+
 ?>
