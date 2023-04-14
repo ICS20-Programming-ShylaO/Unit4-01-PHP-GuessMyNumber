@@ -33,8 +33,7 @@
       <input type="submit" value="Submit guess">
     </form>
     <!-- iframe for the response to show on the web page. -->
-      <iframe id="results" name="results">	
-      </iframe>
+    <iframe id="results" name="results"></iframe>
     </center>
   </body>
 </html>
