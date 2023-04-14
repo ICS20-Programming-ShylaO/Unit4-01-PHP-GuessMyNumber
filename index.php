@@ -20,7 +20,7 @@
   </head>
   <body>
     <!-- php echo to print the html to the page -->
-    <?php 
+    <?php
       echo "<h1>Guess the Random Number</h1>";
       echo "<h3>This webpage has a secret number between 1 and 6. Guess it!</h3>";
     ?>
