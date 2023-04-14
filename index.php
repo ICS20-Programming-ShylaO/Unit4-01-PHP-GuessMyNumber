@@ -34,7 +34,7 @@
 		</form>
     <!-- iframe for the response to show on the web page. -->
       <iframe id="results" name="results">	
-        $response
+        
 	    </iframe>
     </center>
   </body>
